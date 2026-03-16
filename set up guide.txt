@@ -1,0 +1,21 @@
+HABIT TRACKER WEB APP
+README – How to Run the Project
+
+Step 1 – Run Using a Code Editor
+
+1. Open a code editor such as Visual Studio Code or any other development software.
+2. Create a new folder for the project.
+3. Place the following three files inside that folder:
+
+   * index.html
+   * style.css
+   * script.js
+4. After adding the files, open the index.html file in the editor and run it using a browser or live server.
+5. The Habit Tracker website will run in your browser.
+
+Step 2 – Run Directly in Browser (Easy way)
+
+1. Locate the index.html file on your computer.
+2. Double-click the index.html file.
+3. It will automatically open in your web browser (for example Google Chrome) and click the 3 dot button to add or download your home screen or desktop. 
+4. You can now start using the Habit Tracker 
